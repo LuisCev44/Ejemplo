@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(180, 180, 180);
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
+h2 {
+    color: white;
+    background-color: grey;
+}
+img{
+    float: left;
+    padding: 10px;
+}
+em {
+    color: red;
+}
+strong{
+    background-color: white;
+}
